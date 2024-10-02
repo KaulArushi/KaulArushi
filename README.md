@@ -16,5 +16,6 @@ Welcome to my GitHub profile! I'm an aspiring SDE!
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/kaularu/)
+- [Gmail](arushikatwork@gmail.com)
 
-> "Keep learning, keep building!" 🔥
+> "What you understand is always more important than what you code!" 🔥
